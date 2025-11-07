@@ -1,1 +1,18 @@
-A
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Librería de  Comandos de Linux</string>
+    <string name="commands">Comandos</string>
+    <string name="basics">Conceptos basicos</string>
+    <string name="tips">Consejos</string>
+    <string name="info">Informacion</string>
+    <string name="add_bookmark">agregar marcador</string>
+    <string name="remove_bookmark">Quitar marcador</string>
+    <string name="collapse_all">Contraer todo</string>
+    <string name="expand_all">Expandir todo</string>
+    <string name="search">Buscar</string>
+    <string name="back">Volver</string>
+    <string name="reset">Restablecer</string>
+    <string name="share">Compartir </string>
+
+</resources>
